@@ -7,7 +7,7 @@
 
 Description
 
-This project is a basic React application scaffolded with Vite, styled using Tailwind CSS, and powered by a Node.js environment. It is developed as part of the FGO24 (Full-stack Generasi GIGIH Online 2024) bootcamp to demonstrate modern front-end development best practices.
+This project is a basic React application scaffolded with Vite, styled using Tailwind CSS, and powered by a Node.js environment. It is developed as part of the FGO24 (Fullstack Golang Batch 24 Koda Academy) bootcamp to demonstrate modern front-end development best practices.
 
 ## ✨ Features
 
