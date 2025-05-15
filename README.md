@@ -78,7 +78,6 @@ fgo24-react-basic/
 │   ├── main.jsx           # Entry point
 │   └── index.css          # Tailwind CSS imports
 ├── package.json           # Project metadata and scripts
-├── tailwind.config.js     # Tailwind CSS configuration
 ├── vite.config.js         # Vite configuration
 └── README.md              # This file
 ```
