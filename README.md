@@ -70,7 +70,10 @@ fgo24-react-basic/
 ├── public/                # Static assets
 ├── src/
 │   ├── assets/            # Images and media
-│   ├── components/        # Reusable React components
+│   ├── pages/
+         Counter.jsx
+         SurveyForm.jsx
+         SurveyTable.jsx
 │   ├── App.jsx            # Main App component
 │   ├── main.jsx           # Entry point
 │   └── index.css          # Tailwind CSS imports
